@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World for staging to test webhook, git with username!</p>'; ?> 
+ <?php echo '<p>Hello github webhook!</p>'; ?> 
  </body>
 </html>
